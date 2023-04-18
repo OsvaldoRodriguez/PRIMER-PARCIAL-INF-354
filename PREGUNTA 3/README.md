@@ -36,3 +36,23 @@ DataSet antes de aplicar el algoritmo
 Dataset despues de aplicar el algoritmo
 
 ![](https://github.com/OsvaldoRodriguez/PRIMER-PARCIAL-INF-354/blob/master/PREGUNTA%203/algoritmo2_fin.jpeg)
+
+
+## 3. Algoritmo SimpleInputer
+
+EXPLICACION DEL ALGORITMO
+se usara este algoritmo para para rellenar los espacios vacios en el dataset
+una opcion es borrar las columnas con datos faltantes, pero eso afectaria al preprocesamiento de los datos
+para este caso se va a rrellenar utilizando la media
+ej: si en la COLUMNA de ranking hay datos faltantes se puede rellenar con la media, asi suponiendo que los usuarios sin datos, tiene  un ranking de la media del resto
+
+
+![Código](https://github.com/OsvaldoRodriguez/PRIMER-PARCIAL-INF-354/blob/master/PREGUNTA%203/algoritmo3.py)
+
+DataSet antes de aplicar el algoritmo
+
+![](https://github.com/OsvaldoRodriguez/PRIMER-PARCIAL-INF-354/blob/master/PREGUNTA%203/algoritmo3_inicio.jpeg)
+
+Dataset despues de aplicar el algoritmo
+
+![](https://github.com/OsvaldoRodriguez/PRIMER-PARCIAL-INF-354/blob/master/PREGUNTA%203/algoritmo3_fin.jpeg)
