@@ -12,7 +12,7 @@ para el dataset en la columna "Country" nos sirve de mucho ya que  podemos poene
 
 Código: 
 
-![](https://github.com/OsvaldoRodriguez/PRIMER-PARCIAL-INF-354/blob/master/PREGUNTA%203/algoritmo1.py)
+![hola](https://github.com/OsvaldoRodriguez/PRIMER-PARCIAL-INF-354/blob/master/PREGUNTA%203/algoritmo1.py)
 
 DataSet antes de aplicar el algoritmo
 
