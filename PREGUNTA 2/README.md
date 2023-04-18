@@ -25,10 +25,21 @@ Finalmente se guarda en formado .arff
 
 ## 1. Preprocesamiento Discretize
 
+Explicacion del filtro
+
+![](https://github.com/OsvaldoRodriguez/PRIMER-PARCIAL-INF-354/blob/master/PREGUNTA%202/prepro%201/explicacion.txt)
+
 Detalles del filtro
 
 ![](https://github.com/OsvaldoRodriguez/PRIMER-PARCIAL-INF-354/blob/master/PREGUNTA%202/prepro%201/filter.jpeg)
 
+Vista General del filtro
+
+![](https://github.com/OsvaldoRodriguez/PRIMER-PARCIAL-INF-354/blob/master/PREGUNTA%202/prepro%201/vista%20general.jpeg)
+
+Resultado del filtro
+
+![](https://github.com/OsvaldoRodriguez/PRIMER-PARCIAL-INF-354/blob/master/PREGUNTA%202/prepro%201/resultado.jpeg)
 
 ## 2.
 
