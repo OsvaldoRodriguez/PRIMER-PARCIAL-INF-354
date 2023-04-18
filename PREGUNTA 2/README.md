@@ -41,9 +41,27 @@ Resultado del filtro
 
 ![](https://github.com/OsvaldoRodriguez/PRIMER-PARCIAL-INF-354/blob/master/PREGUNTA%202/prepro%201/resultado.jpeg)
 
-## 2.
+
+## 2. Preprocesamiento InterquartileRange
+
+Explicacion del filtro
+
+https://github.com/OsvaldoRodriguez/PRIMER-PARCIAL-INF-354/blob/master/PREGUNTA%202/prepro%202/explicacion.txt
+
+Detalles del filtro
+
+![](https://github.com/OsvaldoRodriguez/PRIMER-PARCIAL-INF-354/blob/master/PREGUNTA%202/prepro%202/filter.jpeg)
+
+Vista General del filtro
+
+![](https://github.com/OsvaldoRodriguez/PRIMER-PARCIAL-INF-354/blob/master/PREGUNTA%202/prepro%202/general%20filter.jpeg)
+
+Resultado del filtros
+
+![](https://github.com/OsvaldoRodriguez/PRIMER-PARCIAL-INF-354/blob/master/PREGUNTA%202/prepro%202/resultado.jpeg)
+
+![](https://github.com/OsvaldoRodriguez/PRIMER-PARCIAL-INF-354/blob/master/PREGUNTA%202/prepro%202/resultado2.jpeg)
+
+![](https://github.com/OsvaldoRodriguez/PRIMER-PARCIAL-INF-354/blob/master/PREGUNTA%202/prepro%202/resultado3.jpeg)
 
 
-## 3.
-
-## 4.
