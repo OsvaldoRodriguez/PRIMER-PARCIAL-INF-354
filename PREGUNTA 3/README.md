@@ -21,3 +21,21 @@ DataSet antes de aplicar el algoritmo
 Dataset despues de aplicar el algoritmo
 
 ![](https://github.com/OsvaldoRodriguez/PRIMER-PARCIAL-INF-354/blob/master/PREGUNTA%203/algoritmo1_fin.jpeg)
+
+
+## 2. Algoritmo StandarScaler
+
+EXPLICACION DEL ALGORITMO
+se usara este algoritmo para que todas las caracteristicas del data set, tengan la misma escala, esto es para  mejorar la presicion del modelo
+en realcion al entrenamiento
+Código: 
+
+![](https://github.com/OsvaldoRodriguez/PRIMER-PARCIAL-INF-354/blob/master/PREGUNTA%203/algoritmo2.py)
+
+DataSet antes de aplicar el algoritmo
+
+![](https://github.com/OsvaldoRodriguez/PRIMER-PARCIAL-INF-354/blob/master/PREGUNTA%203/algoritmo2_inicio.jpeg)
+
+Dataset despues de aplicar el algoritmo
+
+![](https://github.com/OsvaldoRodriguez/PRIMER-PARCIAL-INF-354/blob/master/PREGUNTA%203/algoritmo2_fin.jpeg)
