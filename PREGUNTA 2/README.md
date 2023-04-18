@@ -87,3 +87,29 @@ Resultado del filtros
 ![](https://github.com/OsvaldoRodriguez/PRIMER-PARCIAL-INF-354/blob/master/PREGUNTA%202/prepro%203/resultado%203.jpeg)
 
 
+
+## 4. Preprocesamiento ReplaceMissingValues
+
+Explicacion del filtro
+
+https://github.com/OsvaldoRodriguez/PRIMER-PARCIAL-INF-354/blob/master/PREGUNTA%202/prepro%204/explicacion.txt
+
+Detalles del filtro
+
+![](https://github.com/OsvaldoRodriguez/PRIMER-PARCIAL-INF-354/blob/master/PREGUNTA%202/prepro%204/filter.jpeg)
+
+Vista General del filtro
+
+![](https://github.com/OsvaldoRodriguez/PRIMER-PARCIAL-INF-354/blob/master/PREGUNTA%202/prepro%204/filter%20general.jpeg)
+
+Antes del Filtro
+
+![](https://github.com/OsvaldoRodriguez/PRIMER-PARCIAL-INF-354/blob/master/PREGUNTA%202/prepro%204/data%20inicial.jpeg)
+
+Resultado del filtros
+
+![](https://github.com/OsvaldoRodriguez/PRIMER-PARCIAL-INF-354/blob/master/PREGUNTA%202/prepro%204/resultado%20general.jpeg)
+
+![](https://github.com/OsvaldoRodriguez/PRIMER-PARCIAL-INF-354/blob/master/PREGUNTA%202/prepro%204/data%20resultante.jpeg)
+
+
