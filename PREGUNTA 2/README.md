@@ -23,7 +23,11 @@ Finalmente se guarda en formado .arff
 ![dataset](https://github.com/OsvaldoRodriguez/PRIMER-PARCIAL-INF-354/blob/master/PREGUNTA%202/crear%20raff/guardar%20como%20arff.jpeg)
 
 
-## 1. Preprocesamiento 
+## 1. Preprocesamiento Discretize
+
+Detalles del filtro
+
+![](https://github.com/OsvaldoRodriguez/PRIMER-PARCIAL-INF-354/blob/master/PREGUNTA%202/prepro%201/filter.jpeg)
 
 
 ## 2.
