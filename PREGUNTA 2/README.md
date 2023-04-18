@@ -65,3 +65,25 @@ Resultado del filtros
 ![](https://github.com/OsvaldoRodriguez/PRIMER-PARCIAL-INF-354/blob/master/PREGUNTA%202/prepro%202/resultado3.jpeg)
 
 
+
+## 3. Preprocesamiento RemoveUseless
+
+Explicacion del filtro
+
+https://github.com/OsvaldoRodriguez/PRIMER-PARCIAL-INF-354/blob/master/PREGUNTA%202/prepro%203/explicacion.txt
+
+Detalles del filtro
+
+![](https://github.com/OsvaldoRodriguez/PRIMER-PARCIAL-INF-354/blob/master/PREGUNTA%202/prepro%203/filter.jpeg)
+
+Vista General del filtro
+
+![](https://github.com/OsvaldoRodriguez/PRIMER-PARCIAL-INF-354/blob/master/PREGUNTA%202/prepro%203/filter%20general.jpeg)
+
+Resultado del filtros
+
+![](https://github.com/OsvaldoRodriguez/PRIMER-PARCIAL-INF-354/blob/master/PREGUNTA%202/prepro%203/resultado%20general.jpeg)
+
+![](https://github.com/OsvaldoRodriguez/PRIMER-PARCIAL-INF-354/blob/master/PREGUNTA%202/prepro%203/resultado%203.jpeg)
+
+
