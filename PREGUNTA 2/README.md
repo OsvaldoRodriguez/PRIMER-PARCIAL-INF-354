@@ -27,7 +27,7 @@ Finalmente se guarda en formado .arff
 
 Explicacion del filtro
 
-![](https://github.com/OsvaldoRodriguez/PRIMER-PARCIAL-INF-354/blob/master/PREGUNTA%202/prepro%201/explicacion.txt)
+https://github.com/OsvaldoRodriguez/PRIMER-PARCIAL-INF-354/blob/master/PREGUNTA%202/prepro%201/explicacion.txt
 
 Detalles del filtro
 
